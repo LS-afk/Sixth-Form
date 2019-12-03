@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NoughtsAndCrosses
+namespace AlphabeticalOrder
 {
-    class OXO
+    class Program
     {
-        public enum Letter {Space, Nought, Cross}
+        static void Main(string[] args)
+        {
+        }
     }
 }
